@@ -1,18 +1,28 @@
- Hi there 👋
+<h1 align="center">Hi 👋, I'm Hiren Devmurari</h1>
+<h3 align="center">A passionate Web-application Developer</h3>
 
-- 🔭 I’m currently working on Web Application(More focused with backend)
-- 🌱 I have already built some Web application using Java, Jsp, Servlet, Hibernate and Mysql and Spring, Spring Secutity, Spring boot, Rest API and also some basic development with client app in Angular.
-- 👯 I’m looking for opportunities as Junior or Entry level Java Developer ...
-- 🤔 Currently working on Spring Boot and angular, Rest API...
-- 💬 I am very passionate and dedicated person towards my dreams, which is to be a proficient Java Developer.
-- 📫contact me: HIRU.DEVMURARI@GMAIL.COM
+- 🔭 I’m currently working on [Blog-FullStack-App](https://hiren0000.github.io/)
 
-#Contact Me:
-<html>
- <body>
-<a href="https://www.youtube.com/watch?v=LVQYzOn3uUw" target="_blank">
-<svg xmlns="http://www.w3.org/2000/svg"  width="20" height="20" fill="currentColor" class="bi bi-LinkedIn" viewBox="0 0 16 16">
-<path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854V1.146zm4.943 12.248V6.169H2.542v7.225h2.401zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248-.822 0-1.359.54-1.359 1.248 0 .694.521 1.248 1.327 1.248h.016zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016a5.54 5.54 0 0 1 .016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225h2.4z"/></svg>
-</a>
- </body>
-</html>
+- 🌱 I’m currently learning **Springboot, Microservices, OAuthtoken**
+
+- 👨‍💻 All of my projects are available at [https://hiren0000.github.io/](https://hiren0000.github.io/)
+
+- 📝 I regularly write articles on [will be here soon...](will be here soon...)
+
+- 💬 Ask me about **Java, SpringBoot, JWT token, Angular, and Spring boot Rest API Integration.**
+
+- 📫 How to reach me **Hiru.devmurari@gmail.com**
+
+- ⚡ Fun fact **I think I am sleepy all the time :)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hiren-devmurari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hiren-devmurari/" height="30" width="40" /></a>
+<a href="https://fb.com/hiren devmurari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hiren devmurari" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@hiru_devmurari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hiru_devmurari" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiren0000&show_icons=true&locale=en&layout=compact" alt="hiren0000" /></p>
